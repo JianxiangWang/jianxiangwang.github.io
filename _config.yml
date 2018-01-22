@@ -18,8 +18,6 @@ email: ""
 description: "Natural Language Processing and AI"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://guillaumegenthial.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  guillaumegenthial
-google_analytics: UA-97038685-1
 
 
 # Build settings
@@ -32,71 +30,3 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-
-
-curriculum:
-  - image: img/rl.png
-    title: Deep Learning
-    info: Winter 2018
-    description: Course Assistant for CS230
-    url: http://cs230.stanford.edu
-  - image: img/rl.png
-    title: Machine Learning
-    info: Fall 2017
-    description: Course Assistant for CS229
-    url: http://cs229.stanford.edu
-  - image: img/stanfordmlgrouplogo.svg
-    title: Machine Learning Group
-    info: Fall 2017
-    description: Research Project in NLP
-    url: https://stanfordmlgroup.github.io
-  - image: img/rl.png
-    title: Reinforcement Learning
-    info: Spring 2017
-    description: Course Assistant for CS234
-    url: http://web.stanford.edu/class/cs234/index.html
-  - image: img/snlp.jpg
-    title: Deep Learning for NLP
-    info: Winter 2016
-    description: Course Assistant for CS224N
-    url: http://cs224n.stanford.edu
-  - image: img/stanford.png
-    title: Stanford University
-    info: 2016 - 2018
-    description: Master in ICME - Data Science Track
-    url: https://icme.stanford.edu
-  - image: img/proxem.jpg
-    title: Proxem (Paris)
-    info: Summer 2016
-    description: Research on Named Entity Recognition with LSTM + CRF
-    url: https://www.proxem.com/en/
-  - image: img/riminder.png
-    title: Riminder (Paris)
-    info: Spring 2016
-    description: Project in Question Answering + Chat Bot
-    url: https://www.riminder.net
-  - image: img/x.jpg
-    title: École polytechnique
-    info: 2013 - 2016
-    url: https://www.polytechnique.edu
-    description: Master in Applied Mathematics - Diplôme d'Ingénieur
-  - image: img/option.jpg
-    title: Option TI (Santiago de Chile)
-    info: Summer 2015
-    description: Web Developer
-    url: https://www.option.cl
-  - image: img/sorbonne.png
-    title: Université Panthéon-Sorbonne
-    info: 2014 - 2015
-    url: https://www.univ-paris1.fr/ufr/ufr10/
-    description: Licence 3, Philosophie
-  - image: img/marine_nationale.png
-    title: Marine Nationale
-    info: 2013
-    description: Aspirant - French Guyana and La Martinique
-    url: http://www.defense.gouv.fr/marine/equipements/batiments-de-combat/patrouilleurs/type-p-400/la-capricieuse-p-684
-  - image: img/ginette.jpg
-    title: Lycée Sainte Geneviève
-    info: 2011 - 2013
-    description: Classes préparatoires - Maths Physics
-    url: http://bginette.com
